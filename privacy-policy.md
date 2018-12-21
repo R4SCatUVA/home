@@ -48,10 +48,10 @@ private personal information (such as your name or contact information).
 
 We may revise this Privacy Policy from time to time. The most current version of 
 the policy will govern our use of your information and will always be at 
-http://www.grabapp.co/legal/privacypolicy.html. If we make a change to this policy 
-that, in our sole discretion, is material, we will update 
-http://www.grabapp.co/legal/privacypolicy.html. By continuing to access or use the 
-Services after those changes become effective, you agree to be bound by the revised 
-Privacy Policy.
+https://github.com/sustainablecommerce/home/blob/master/privacy-policy.md. If we 
+make a change to this policy that, in our sole discretion, is material, we will update 
+https://github.com/sustainablecommerce/home/blob/master/privacy-policy.md. By 
+continuing to access or use the Services after those changes become effective, 
+you agree to be bound by the revised Privacy Policy.
 
 Effective: 1st December 2018
