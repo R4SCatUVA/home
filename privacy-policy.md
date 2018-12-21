@@ -1,8 +1,10 @@
 # Research for Sustainable Commerce Group’s Privacy Policy
 
-The Research for Sustainable Commerce Group is a collection os researchers and students...
+The Research for Sustainable Commerce Group is a collection of researchers and students 
+at the University of Virginia who work collaboratively with local brands to implement 
+sustainable business practices.  
 
-As part of the collective we help brands and advertisers implement sustainable business 
+As part of the collective we help these brands and advertisers implement sustainable business 
 practices by better understanding and managing their audience and media rights. With 
 the permission from participating businesses, our researchers will securely collect 
 information on the followers, users, media, comments, and likes related to their Instagram 
